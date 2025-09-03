@@ -22,8 +22,8 @@ This is a collection of projects that showcase my skills in **Data Analysis, SQL
 ## 📬 Connect with Me  
 
 - 📧 Email: [abhi.nair9799@gmail.com](mailto:abhi.nair9799@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abhilashnair](#)  
-- 🐙 GitHub: [github.com/abhilashnair](#)  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhilash-nair-59098214b/)  
+- 🐙 GitHub: [GitHub](https://github.com/abhi-9799)  
 
 ---
 
