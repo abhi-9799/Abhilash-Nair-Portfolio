@@ -7,7 +7,7 @@ This is a collection of projects that showcase my skills in **Data Analysis, SQL
 
 ## 🔗 Portfolio Projects
 
-- [Marketing Campaign Performance Dashboard]([https://github.com/abhi-9799/Data-Quality-Anomaly-Detection-Tool](https://github.com/abhi-9799/marketing-campaign-dashboard))
+- [Marketing Campaign Performance Dashboard]([https://github.com/abhi-9799/Data-Quality-Anomaly-Detection-Tool](https://github.com/abhi-9799/marketing-campaign-dashboard)
 - [E-Commerce Sales ETL Pipeline](https://github.com/abhi-9799/ecommerce-pipeline)
 - [Data Quality & Anomaly Detection Tool](https://github.com/abhi-9799/Data-Quality-Anomaly-Detection-Tool)
 
